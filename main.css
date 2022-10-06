@@ -1,0 +1,31 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    background-image: url("a7.jpg");
+    background-size: cover;
+    text-align: right;
+}
+h1 {
+    text-align: center;
+}
+video {
+    /* width: 700px; */
+    text-align: center;
+    border: rgba(124, 238, 241, 0.637) solid ;
+    border-width: 15px;
+}
+div {
+    text-align: center;
+    
+}
+a {
+    font-size: 70px;
+    color: teal;
+    text-decoration-line: none;
+}
+h1 .h {
+    text-align: center;
+    display: inline-block;
+}
+img {
+    display: inline-block;
+}
